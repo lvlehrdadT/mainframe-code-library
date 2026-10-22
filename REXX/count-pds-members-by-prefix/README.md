@@ -16,10 +16,10 @@ Example:
 
 If the PDS contains the following members:
 
-- `BNKBACK1`
-- `BNKBACK2`
-- `BNKBACK3`
-- `BNKLOAD1`
+- `Sample1`
+- `Sample2`
+- `Sample3`
+- `Sample4`
 
 Set the prefix to:
 
