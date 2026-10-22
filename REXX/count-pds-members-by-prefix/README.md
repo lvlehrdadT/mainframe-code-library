@@ -23,7 +23,7 @@ If the PDS contains the following members:
 
 Set the prefix to:
 
-`PREFIX = 'BNKBACK'`
+`PREFIX = 'Sample'`
 
 Expected result:
 
