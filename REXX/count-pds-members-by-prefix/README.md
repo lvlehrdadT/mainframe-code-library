@@ -27,7 +27,7 @@ Set the prefix to:
 
 Expected result:
 
-`COUNT IS 3`
+`COUNT IS 4`
 
 ## Requirements
 
