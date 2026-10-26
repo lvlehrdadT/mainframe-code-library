@@ -13,6 +13,15 @@ Counts the members of a partitioned data set (PDS) whose names start with a spec
 **Language:** REXX  
 **Platform:** IBM z/OS
 
+
+### [List DASD Usage](./list-dasd-usage/)
+
+Displays DASD volume serials and usage percentages using the MXI REXX interface.
+
+**Language:** REXX  
+**Platform:** IBM z/OS
+
+
 ---
 
 More programs and examples will be added over time.
