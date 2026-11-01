@@ -13,7 +13,7 @@ This repository documents programming techniques and solutions for common tasks 
 | Technology | Description |
 |---|---|
 | ⚡ [REXX](./REXX/) | REXX programs and code examples |
-| 💻 COBOL | COBOL programming examples |
+| 💻 [COBOL](./cobol/) | COBOL programming examples |
 | ⚙️ JCL | Job Control Language examples |
 | 🗄️ DB2 for z/OS | SQL examples and database programming |
 
