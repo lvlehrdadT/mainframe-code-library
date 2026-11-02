@@ -22,6 +22,22 @@ Displays DASD volume serials and usage percentages using the MXI REXX interface.
 **Platform:** IBM z/OS
 
 
+### [DB2 REXX Stored Procedure](./rexx-stored-procedure/)
+
+Demonstrates how to create and configure DB2 stored procedures using REXX on IBM z/OS, including WLM setup and JCL submission through an internal reader.
+
+**Language:** REXX  
+**Platform:** IBM z/OS
+
+
+### [Count Dataset Lines](./count-dataset-lines/)
+
+Counts the number of records in a sequential data set or a PDS/PDSE member using the REXX EXECIO command.
+
+**Language:** REXX  
+**Platform:** IBM z/OS
+
+
 ---
 
 More programs and examples will be added over time.
